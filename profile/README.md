@@ -1,6 +1,6 @@
 # Build Your Stax - Stack-Building Browser Challenge for Quick Strategy Runs
 
-![Build Your Stax tower challenge with stacked blocks and score panel](https://avatars.mds.yandex.net/i?id=d59f9c7d3e1608b957975935df7391c629876057-10397524-images-thumbs&n=13)
+![Build Your Stax tower challenge with stacked blocks and score panel](https://avatars.mds.yandex.net/i?id=bd286d68a50e7783e9385a7601251bf2bf9f18e2-4578587-images-thumbs&n=13)
 
 ## Stack Smarter with Build Your Stax
 
